@@ -1,1 +1,1 @@
-My first readme in ALX-ZERO DAY
+ALX-ZERO DAY
